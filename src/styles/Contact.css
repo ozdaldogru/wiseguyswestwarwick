@@ -1,0 +1,40 @@
+.contact {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-items: center;
+    justify-content: space-around;
+    max-width: 720px;
+    margin: 10px;
+    text-align: "center",
+    
+}
+
+
+
+.contact1, .contact2 {
+    margin-left: 25%;
+}
+
+.tableCell, h1{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+
+@media only screen and (max-width: 1200px) {
+    .contact {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        max-width: 660;
+    }
+    
+    
+    h1{
+        text-align: left;
+    }
+    }
