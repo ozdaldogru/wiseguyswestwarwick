@@ -43,7 +43,8 @@ const Contact = () => {
                     <TableBody>
                       <TableRow>
                         <TableCell>
-                          <MailIcon sx={{ color: "skyblue", pt: 1 }} /> wiseguysdelihouse@gmail.com
+                          <MailIcon sx={{ color: "skyblue", pt: 1 }} /> 
+                          <a href="email:wiseguysdelihouse@gmail.com">wiseguysdelihouse@gmail.com</a>
                         </TableCell>
                       </TableRow>
                       <TableRow>

@@ -18,7 +18,7 @@ const Footer = () => {
 
               <div>
               <h2>Contact </h2> 
-              <p>(401) 822-0690 </p>   
+              <a href="tlf:+1-401-822-06-90">401-822-06-90</a>   
               <p> wiseguysdelihouse@gmail.com </p>   
               </div>              
 
