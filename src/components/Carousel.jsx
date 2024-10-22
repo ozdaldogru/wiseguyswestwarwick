@@ -48,7 +48,7 @@ function Carousel({ images }) {
             >
               <img className="card_image" src={image.image} alt="" />
               <div className="card_overlay">
-                <a href="https://wiseguyswwarwick.cuteorder.com" target="blank"><button>ORDER NOW</button></a>
+                <a href="https://wiseguyswwarwick.cuteorder.com" target="blank"><button className="orderButton">ORDER NOW</button></a>
               </div>
             </div>
           );

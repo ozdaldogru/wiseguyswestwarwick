@@ -46,7 +46,7 @@
   align-items: flex-end;
 }
 
-button {
+.orderButton {
   color: white;
   background-color: transparent;
   color: aqua;
@@ -103,7 +103,7 @@ button {
   cursor: pointer;
 }
 
-button:hover {
+.orderButton:hover {
   transform: scale(1.1);
   color: goldenrod;
   border-color: goldenrod;

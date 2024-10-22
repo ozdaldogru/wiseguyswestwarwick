@@ -48,6 +48,16 @@ a {
   
   @media screen and (max-width: 960px) {
   
+
+    .footer {
+      display: flex;
+      flex-direction: column;
+      justify-items: center;
+      justify-content: center;
+      text-align: center;
+      background-color: #1A1A19; 
+      color: white;
+      }
   .store {
     display: flex;
     flex-direction: column;
